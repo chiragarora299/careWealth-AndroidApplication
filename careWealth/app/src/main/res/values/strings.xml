@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">careWELLTH</string>
+    <string name="s">S</string>
+    <string name="ore_today">ore Today</string>
+    <string name="happiness_is_homemade">Happiness is HomeMade</string>
+    <string name="get_started">Get Started</string>
+    <string name="trong_tommorow">trong Tomorrow</string>
+    <string name="login">LOGIN</string>
+    <string name="all_your_healthcare_need">All Your Healthcare Need</string>
+    <string name="on_your_finger_tips">On Your Finger Tips</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="email">E-Mail</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="registered_already_log_in">Registered Already? Log In</string>
+    <string name="registernow">REGISTER</string>
+    <string name="registration_now">REGISTRATION</string>
+    <string name="be_a_warrior">BE A WARRIOR</string>
+    <string name="not_a_worrier">NOT A WORRIER</string>
+    <string name="don_t_have_a_account_sign_up">Don\'t have a account?Sign up</string>
+    <string name="loginintro">LOGIN</string>
+    <string name="welcome_to_dashboard">Welcome To Dashboard</string>
+    <string name="registration">reg</string>
+    <string name="carewellth">careWELLTH</string>
+    <string name="main_page_selected">%s page is selected</string>
+    <string name="parent">PARENTS</string>
+    <string name="medical">MEDICAL</string>
+    <string name="proctor">PROCTOR</string>
+    <string name="user">USER</string>
+    <string name="notifications">Notifications</string>
+    <string name="menu">Menu</string>
+    <string name="are_you_feeling_sick">Are you feeling sick?</string>
+    <string name="call_now">Call Now</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="keep">keep</string>
+    <string name="handwashh">handwashh</string>
+    <string name="preventions">PREVENTIONS</string>
+    <string name="assessment">assessment</string>
+    <string name="wear_mask">wear_mask</string>
+    <string name="home">HOME</string>
+    <string name="home_button">home_button</string>
+
+    <string-array name="proctors">
+        <item>Select your Proctor</item>
+        <item>Dr. Anjan Krishnamurthy</item>
+        <item>Dr. Mahesh G</item>
+        <item>Dr. Thippeswamy</item>
+        <item>Mrs. Durgabhavani</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

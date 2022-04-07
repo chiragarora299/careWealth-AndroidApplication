@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/parent"
+        android:icon="@drawable/dashboard_family_logo"
+        android:title="@string/parent"
+       />
+
+
+    <item
+        android:id="@+id/medical"
+        android:title="@string/medical"
+        android:icon="@drawable/dashboard_medical_logo"
+        />
+    <item
+        android:id="@+id/home"
+        android:title="HOME"
+
+        android:icon="@drawable/home"
+        />
+
+    <item
+        android:id="@+id/proctor"
+        android:title="@string/proctor"
+
+        android:icon="@drawable/dashboard_proctor_logo"
+        />
+
+    <item
+        android:id="@+id/user"
+        android:title="@string/user"
+
+        android:icon="@drawable/user_logo"
+        />
+
+</menu>

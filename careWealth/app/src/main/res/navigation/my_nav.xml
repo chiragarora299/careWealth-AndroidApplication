@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/parentnav">
+
+    <fragment
+        android:id="@+id/parentnav"
+        android:name="com.example.carewellth.parentnav"
+        android:label="fragment_parentnav"
+        tools:layout="@layout/fragment_parentnav" />
+    <fragment
+        android:id="@+id/medical"
+        android:name="com.example.carewellth.medical"
+        android:label="fragment_medical"
+        tools:layout="@layout/fragment_medical" />
+    <fragment
+        android:id="@+id/proctor"
+        android:name="com.example.carewellth.proctor"
+        android:label="fragment_proctor"
+        tools:layout="@layout/fragment_proctor" />
+    <fragment
+        android:id="@+id/user"
+        android:name="com.example.carewellth.user"
+        android:label="fragment_user"
+        tools:layout="@layout/fragment_user" />
+    <activity
+        android:id="@+id/dashboard"
+        android:name="com.example.carewellth.Dashboard"
+        android:label="Dashboard" />
+</navigation>

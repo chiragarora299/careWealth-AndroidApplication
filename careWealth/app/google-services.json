@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "625365014227",
+    "firebase_url": "https://carewellth-dff40-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "carewellth-dff40",
+    "storage_bucket": "carewellth-dff40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625365014227:android:92f15beb11b2621ce9a626",
+        "android_client_info": {
+          "package_name": "com.example.carewellth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625365014227-q3rrear5d1ckhc7t223e9ckcpu1q5quo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS-IHh4xiKeplzEMdmV1yqvO0wHmfc1u4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625365014227-q3rrear5d1ckhc7t223e9ckcpu1q5quo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625365014227:android:02faef64b314715de9a626",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625365014227-q3rrear5d1ckhc7t223e9ckcpu1q5quo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS-IHh4xiKeplzEMdmV1yqvO0wHmfc1u4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625365014227-q3rrear5d1ckhc7t223e9ckcpu1q5quo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
